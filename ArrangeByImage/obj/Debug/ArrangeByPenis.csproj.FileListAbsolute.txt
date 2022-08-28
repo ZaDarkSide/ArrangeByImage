@@ -1,0 +1,8 @@
+C:\Documents and Settings\joshp\Desktop\ArrangeByPenis\source\ArrangeByPenis\ArrangeByPenis\bin\Debug\ArrangeByPenis.exe
+C:\Documents and Settings\joshp\Desktop\ArrangeByPenis\source\ArrangeByPenis\ArrangeByPenis\bin\Debug\ArrangeByPenis.pdb
+C:\Documents and Settings\joshp\Desktop\ArrangeByPenis\source\ArrangeByPenis\ArrangeByPenis\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\joshp\Desktop\ArrangeByPenis\source\ArrangeByPenis\ArrangeByPenis\obj\Debug\ArrangeByPenis.Form1.resources
+C:\Documents and Settings\joshp\Desktop\ArrangeByPenis\source\ArrangeByPenis\ArrangeByPenis\obj\Debug\ArrangeByPenis.Properties.Resources.resources
+C:\Documents and Settings\joshp\Desktop\ArrangeByPenis\source\ArrangeByPenis\ArrangeByPenis\obj\Debug\ArrangeByPenis.csproj.GenerateResource.Cache
+C:\Documents and Settings\joshp\Desktop\ArrangeByPenis\source\ArrangeByPenis\ArrangeByPenis\obj\Debug\ArrangeByPenis.exe
+C:\Documents and Settings\joshp\Desktop\ArrangeByPenis\source\ArrangeByPenis\ArrangeByPenis\obj\Debug\ArrangeByPenis.pdb

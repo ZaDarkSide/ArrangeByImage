@@ -1,0 +1,8 @@
+C:\Proj\ArrangeByImage\source\ArrangeByImage\ArrangeByImage\bin\Release\ArrangeByImage.exe
+C:\Proj\ArrangeByImage\source\ArrangeByImage\ArrangeByImage\bin\Release\ArrangeByImage.pdb
+C:\Proj\ArrangeByImage\source\ArrangeByImage\ArrangeByImage\obj\Release\ResolveAssemblyReference.cache
+C:\Proj\ArrangeByImage\source\ArrangeByImage\ArrangeByImage\obj\Release\ArrangeByImage.frmMain.resources
+C:\Proj\ArrangeByImage\source\ArrangeByImage\ArrangeByImage\obj\Release\ArrangeByImage.Properties.Resources.resources
+C:\Proj\ArrangeByImage\source\ArrangeByImage\ArrangeByImage\obj\Release\ArrangeByImage.csproj.GenerateResource.Cache
+C:\Proj\ArrangeByImage\source\ArrangeByImage\ArrangeByImage\obj\Release\ArrangeByImage.exe
+C:\Proj\ArrangeByImage\source\ArrangeByImage\ArrangeByImage\obj\Release\ArrangeByImage.pdb
