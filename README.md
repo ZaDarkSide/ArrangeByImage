@@ -5,6 +5,8 @@ Saved from [officewarfare.net](https://web.archive.org/web/20131023181304/http:/
 
 #### Arrange By Image
 
+You might want to checkout also the [ArrangeByPenis](https://github.com/ZaDarkSide/ArrangeByPenis) project
+
 ---
 
 #### Back story
