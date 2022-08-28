@@ -23,7 +23,7 @@ When making your own bmp images to feed into the program keep in mind that 1px w
 
 Further I went ahead and added command line switches so you can run this in command line.
 
-The basic command line would be
+The basic command line usage would be:
 
 ```
 arrangebyimage -bmp smilly.bmp -silent
@@ -36,25 +36,16 @@ ArrangeByImage v-1.2 USAGE
 
 ArrangeByImage -bmp pathToImage [-icons XX] [ -silent ] [ -help ] [ -restore ] [ -nosave ]
 
--bmp the path to the image to be used to arrange the icons
-
--icons a number, the desired number of icons to sample for if left blank the number of icons on the desktop will be used.
-
--silent program will automatically arrange icons and close itself displaying nothing to the user.
-
--nosave by default the current icon layout is saved, this flag will stop that behavior.
-
--restore restores a saved version of the layout (undoes what you have wrought).
-
--help display this menu
-
--smiley arrange icons in the shape of a smiley (built in image)
-
--heart arrange icons in the shape of a heart (built in image)
-
--star arrange icons in the shape of a star (built in image)
-
--penis arrange icons in the shape of a penis (built in image, hidden option)
+ -bmp the path to the image to be used to arrange the icons
+ -icons a number, the desired number of icons to sample for if left blank the number of icons on the desktop will be used.
+ -silent program will automatically arrange icons and close itself displaying nothing to the user.
+ -nosave by default the current icon layout is saved, this flag will stop that behavior.
+ -restore restores a saved version of the layout (undoes what you have wrought).
+ -help display this menu
+ -smiley arrange icons in the shape of a smiley (built in image)
+ -heart arrange icons in the shape of a heart (built in image)
+ -star arrange icons in the shape of a star (built in image)
+ -penis arrange icons in the shape of a penis (built in image, hidden option)
 ```
 
 ---
